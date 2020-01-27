@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargaInvGateUltima", "CargaInvGateUltima\CargaInvGateUltima.csproj", "{0297EDD3-8D88-4DBC-825F-B22CDE368787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0297EDD3-8D88-4DBC-825F-B22CDE368787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0297EDD3-8D88-4DBC-825F-B22CDE368787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0297EDD3-8D88-4DBC-825F-B22CDE368787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0297EDD3-8D88-4DBC-825F-B22CDE368787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C96A997-F174-49F1-A71B-35B8AD4389CD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Proyectos\InvGateUltima\CargaInvGateUltima\CargaInvGateUltima\bin\Debug\CargaInvGateUltima.exe.config
+C:\Proyectos\InvGateUltima\CargaInvGateUltima\CargaInvGateUltima\bin\Debug\CargaInvGateUltima.exe
+C:\Proyectos\InvGateUltima\CargaInvGateUltima\CargaInvGateUltima\bin\Debug\CargaInvGateUltima.pdb
+C:\Proyectos\InvGateUltima\CargaInvGateUltima\CargaInvGateUltima\bin\Debug\WebDriver.dll
+C:\Proyectos\InvGateUltima\CargaInvGateUltima\CargaInvGateUltima\bin\Debug\WebDriver.Support.dll
+C:\Proyectos\InvGateUltima\CargaInvGateUltima\CargaInvGateUltima\bin\Debug\WebDriver.xml
+C:\Proyectos\InvGateUltima\CargaInvGateUltima\CargaInvGateUltima\bin\Debug\WebDriver.Support.xml
+C:\Proyectos\InvGateUltima\CargaInvGateUltima\CargaInvGateUltima\obj\Debug\CargaInvGateUltima.csproj.CoreCompileInputs.cache
+C:\Proyectos\InvGateUltima\CargaInvGateUltima\CargaInvGateUltima\obj\Debug\CargaInvGateUltima.exe
+C:\Proyectos\InvGateUltima\CargaInvGateUltima\CargaInvGateUltima\obj\Debug\CargaInvGateUltima.pdb
+C:\Proyectos\InvGateUltima\CargaInvGateUltima\CargaInvGateUltima\obj\Debug\CargaInvGateUltima.csprojResolveAssemblyReference.cache
