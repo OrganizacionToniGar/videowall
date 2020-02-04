@@ -40,7 +40,7 @@ namespace CargaInvGateUltima
             txtHora = DateTime.Now.ToString("HH");
             IJavaScriptExecutor executor = (IJavaScriptExecutor)webDriverChrome;
             
-            while (!txtHora.Equals("21"))
+            while (!txtHora.Equals("23"))
             {
                 System.Threading.Thread.Sleep(10000);
                 webDriverChrome.Navigate().GoToUrl("https://ivirma.cloud.invgate.net/dashboard/item/index/id/63/type/3");
