@@ -16,6 +16,7 @@ namespace CargaInvGateUltima
         private const string URL = "https://ivirma.cloud.invgate.net";
         private const string IE_DRIVER_PATH = @"C:\Sel";
         static string txtHora;
+        static string txtHora1;
 
         static void Main(string[] args)
         
@@ -38,6 +39,7 @@ namespace CargaInvGateUltima
             var ButtonLogin = webDriverChrome.FindElement(By.Id("button_login"));
             ButtonLogin.Click();
             txtHora = DateTime.Now.ToString("HH");
+            txtHora1 = DateTime.Now.ToString("HH");
             IJavaScriptExecutor executor = (IJavaScriptExecutor)webDriverChrome;
             
             while (!txtHora.Equals("23"))
